@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-      <div>My siample project</div>
-       
+      <h1>This is my sample project</h1>
     </>
   )
 }
